@@ -1,5 +1,18 @@
 # 💫 About Me:
-I'm a passionate web developer currently completing my final project to graduate from DAW (Web Application Development). I enjoy building efficient, clean, and user-friendly websites and applications — and I'm always learning something new!<br><br>I originally come from the world of art and media — I studied Fine Arts (Graphic Design and Printmaking) in Seville, and Filmmaking in Madrid (Septima Ars), where I worked in the audiovisual industry for 5 years on TV series, programs, and live broadcasts.<br><br>**Currently**, I'm focused on growing as a full-stack developer and applying everything I’ve learned through hands-on projects and collaboration.<br><br>- 🎓 Finishing my vocational training in Web Application Development (DAW)  <br>- 🛠️ Experienced with both frontend and backend technologies  <br>- 🔍 Deepening my skills in full-stack development  <br><br>**Outside of tech**, I enjoy fitboxing to stay active and focused — it's my way to recharge and come back to code with energy.<br>
+I'm a passionate web developer currently completing my final project to graduate from DAW (Web Application Development). I enjoy building efficient, clean, and user-friendly websites and applications — and I'm always learning something new!
+
+I originally come from the world of art and media — I studied Fine Arts (Graphic Design and Printmaking) in Seville, and Filmmaking in Madrid (Septima Ars), where I worked in the audiovisual industry for 5 years on TV series, programs, and live broadcasts.
+
+**Currently**, I'm focused on growing as a full-stack developer and applying everything I’ve learned through hands-on projects and collaboration.
+
+- 🎓 Finishing my vocational training in Web Application Development (DAW)  
+
+- 🛠️ Experienced with both frontend and backend technologies 
+
+- 🔍 Deepening my skills in full-stack development 
+
+
+**Outside of tech**, I enjoy fitboxing to stay active and focused — it's my way to recharge and come back to code with energy.
 
 
 ## 🌐 Socials:
