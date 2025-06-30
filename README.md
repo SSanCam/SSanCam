@@ -6,11 +6,8 @@ I originally come from the world of art and media — I studied Fine Arts (Graph
 **Currently**, I'm focused on growing as a full-stack developer and applying everything I’ve learned through hands-on projects and collaboration.
 
 - 🎓 Finishing my vocational training in Web Application Development (DAW)  
-
 - 🛠️ Experienced with both frontend and backend technologies 
-
 - 🔍 Deepening my skills in full-stack development 
-
 
 **Outside of tech**, I enjoy fitboxing to stay active and focused — it's my way to recharge and come back to code with energy.
 
